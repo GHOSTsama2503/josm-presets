@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0" author="GHOSTsama2503" description="Etiquetado común para agilizar el mapeo en Cuba">
+
+  <group name="Comercio">
+    <item name="Bodega">
+      <key key="name" value="" default="Bodega" />
+      <key key="shop" value="convenience" />
+    </item>
+  </group>
+
+  <group name="Operadores">
+    <item name="ETECSA">
+      <key key="operator:type" value="public" />
+      <key key="operator:wikidata" value="Q490323" />
+      <key key="operator:wikipedia" value="en:ETECSA" />
+      <key key="operator:wikipedia" value="es:Empresa_de_Telecomunicaciones_de_Cuba" />
+      <key key="operator:website" value="https://www.etecsa.cu" />
+    </item>
+  </group>
+
+  <group name="Educación">
+    <item name="Cículo Infantil">
+      <key key="amenity" value="kindergarten" />
+      <key key="isced:level" value="0" />
+    </item>
+
+    <item name="Escuela Priamria">
+      <key key="amenity" value="school" />
+      <key key="isced:level" value="1" />
+      <key key="operator" value="Ministerio de Educación (MINED)" />
+      <key key="operator:website" value="https://www.mined.gob.cu" />
+      <key key="operator:wikidata" value="Q60826292" />
+      <key key="operator:wikipedia" value="es:Ministerio_de_Educación_(Cuba)" />
+    </item>
+
+    <item name="Secundaria Básica">
+      <key key="amenity" value="school" />
+      <key key="isced:level" value="2" />
+    </item>
+  </group>
+</presets>
