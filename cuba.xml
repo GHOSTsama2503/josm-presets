@@ -10,11 +10,20 @@
 
   <group name="Operadores">
     <item name="ETECSA">
+      <key key="operator" value="Empresa de Telecomunicaciones de Cuba S.A. (ETECSA)" />
       <key key="operator:type" value="public" />
       <key key="operator:wikidata" value="Q490323" />
       <key key="operator:wikipedia" value="en:ETECSA" />
       <key key="operator:wikipedia" value="es:Empresa_de_Telecomunicaciones_de_Cuba" />
       <key key="operator:website" value="https://www.etecsa.cu" />
+    </item>
+
+    <item name="MINSAP">
+      <key key="operator" value="Ministerio de Salud Pública (MINSAP)" />
+      <key key="operator:type" value="public" />
+      <key key="operator:wikidata" value="Q6017421" />
+      <key key="operator:wikipedia" value="es:Ministerio_de_Salud_P%C3%BAblica_(Cuba)" />
+      <key key="operator:website" value="http://salud.msp.gob.cu" />
     </item>
   </group>
 
