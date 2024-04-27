@@ -18,12 +18,28 @@
       <key key="operator:website" value="https://www.etecsa.cu" />
     </item>
 
+    <item name="MINED">
+      <key key="operator" value="Ministerio de Educación (MINED)" />
+      <key key="operator:type" value="public" />
+      <key key="operator:wikidata" value="Q60826292" />
+      <key key="operator:wikipedia" value="es:Ministerio_de_Educación_(Cuba)" />
+      <key key="operator:website" value="https://www.mined.gob.cu" />
+    </item>
+
     <item name="MINSAP">
       <key key="operator" value="Ministerio de Salud Pública (MINSAP)" />
       <key key="operator:type" value="public" />
       <key key="operator:wikidata" value="Q6017421" />
       <key key="operator:wikipedia" value="es:Ministerio_de_Salud_P%C3%BAblica_(Cuba)" />
       <key key="operator:website" value="http://salud.msp.gob.cu" />
+    </item>
+
+    <item name="MITRANS">
+      <key key="operator" value="Ministerio del Transporte (MITRANS)" />
+      <key key="operator:type" value="public" />
+      <key key="operator:wikidata" value="Q98101489" />
+      <key key="operator:wikipedia" value="es:Ministerio_del_Transporte_(Cuba)" />
+      <key key="operator:website" value="https://www.mitrans.gob.cu" />
     </item>
   </group>
 
@@ -37,9 +53,10 @@
       <key key="amenity" value="school" />
       <key key="isced:level" value="1" />
       <key key="operator" value="Ministerio de Educación (MINED)" />
-      <key key="operator:website" value="https://www.mined.gob.cu" />
+      <key key="operator:type" value="public" />
       <key key="operator:wikidata" value="Q60826292" />
       <key key="operator:wikipedia" value="es:Ministerio_de_Educación_(Cuba)" />
+      <key key="operator:website" value="https://www.mined.gob.cu" />
     </item>
 
     <item name="Secundaria Básica">
